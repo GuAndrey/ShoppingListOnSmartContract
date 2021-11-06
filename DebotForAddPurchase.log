@@ -1,0 +1,17 @@
+Config: default
+Input arguments:
+     tvc: DebotForAddPurchase.tvc
+      wc: None
+    keys: DebotForAddPurchase.keys.json
+init_data: None
+is_update_tvc: None
+
+Seed phrase: "order mammal around cloth jealous artist dash sniff swing limb nothing caution"
+Raw address: 0:6f920865e24a65824dff552a9a7647e31c34b612f7afcbe56d060c68360bd111
+testnet:
+Non-bounceable address (for init): 0QBvkghl4kplgk3_VSqadkfjHDS2Evevy-VtBgxoNgvREamY
+Bounceable address (for later access): kQBvkghl4kplgk3_VSqadkfjHDS2Evevy-VtBgxoNgvREfRd
+mainnet:
+Non-bounceable address (for init): UQBvkghl4kplgk3_VSqadkfjHDS2Evevy-VtBgxoNgvRERIS
+Bounceable address (for later access): EQBvkghl4kplgk3_VSqadkfjHDS2Evevy-VtBgxoNgvREU_X
+Succeeded

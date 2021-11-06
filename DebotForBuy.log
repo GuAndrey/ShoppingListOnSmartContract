@@ -1,0 +1,17 @@
+Config: default
+Input arguments:
+     tvc: DebotForBuy.tvc
+      wc: None
+    keys: DebotForBuy.keys.json
+init_data: None
+is_update_tvc: None
+
+Seed phrase: "perfect easy team hamster stay concert aim school vapor dwarf light blade"
+Raw address: 0:2c164b2e63b7d350c4116286fa502e3ca8639bc7b3681bda57bd02632152feb7
+testnet:
+Non-bounceable address (for init): 0QAsFksuY7fTUMQRYob6UC48qGObx7NoG9pXvQJjIVL-t4o9
+Bounceable address (for later access): kQAsFksuY7fTUMQRYob6UC48qGObx7NoG9pXvQJjIVL-t9f4
+mainnet:
+Non-bounceable address (for init): UQAsFksuY7fTUMQRYob6UC48qGObx7NoG9pXvQJjIVL-tzG3
+Bounceable address (for later access): EQAsFksuY7fTUMQRYob6UC48qGObx7NoG9pXvQJjIVL-t2xy
+Succeeded
